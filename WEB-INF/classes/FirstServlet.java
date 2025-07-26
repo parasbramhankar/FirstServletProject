@@ -1,7 +1,6 @@
 import jakarta.servlet.*;  // Corrected double dot
 import java.io.*;
 
-
 public class FirstServlet extends GenericServlet {
 
     @Override
@@ -22,4 +21,3 @@ public class FirstServlet extends GenericServlet {
         // Cleanup logic if needed
     }
 }
-
