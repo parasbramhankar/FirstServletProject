@@ -91,7 +91,7 @@ The `web.xml` file registers the servlet and maps it to the `/test` URL pattern:
 4. Start Tomcat and visit:
 
    ```
-   http://localhost:8080/firstservlet/test
+   http://localhost:8086/firstservlet/test
    ```
 
 ## 🛠 Requirements
@@ -112,18 +112,4 @@ When accessed, the servlet responds with:
 
 **Paras Bramhankar**
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Would you like me to:
-- Automatically generate a `.gitignore` for this project?
-- Add this README to your repo via command?
-- Include a license file too?
-
-Let me know, and I’ll provide the next steps.
-```
